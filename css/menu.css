@@ -1,0 +1,26 @@
+h1 {
+    background-color: lightblue;
+    color: black;
+}
+body {
+    background-color: red;
+}
+
+h2 {
+    background-color: lightblue;
+    color: black;
+}
+img{
+    width: 150px;
+    
+}
+.hidden {
+    display: none;
+}
+.hidden2 {
+    display: none;
+}
+p {
+    color: white;
+    font-size: 20px;
+}
